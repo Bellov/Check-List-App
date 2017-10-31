@@ -1,0 +1,15 @@
+{
+    "name": "Rails server",
+    "type": "Ruby",
+    "request": "launch",
+    "showDebuggerOutput": true,
+    "useBundler": true,
+    "compounds": [{
+        "name": "Compound",
+        "configurations": []
+    }],
+    "cwd": "${workspaceRoot}",
+    "program": "/home/rje/.rvm/gems/ruby-2.3.0/bin/bundle",
+    "version": "0.2.0",
+    "args": ["exec", "rails", "s"]
+}

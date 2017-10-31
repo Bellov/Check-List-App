@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails CheckListApp: test" uuid="28b53b56-a7fa-481d-b72c-4059a93320bf">
+      <database-info product="MySQL" version="5.7.14" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>ruby</user-name>
+      <introspection-schemas>*:checklist_app</introspection-schemas>
+    </data-source>
+    <data-source name="Rails CheckListApp: development" uuid="6d923849-b9a2-4d5f-b2cb-5d4d2920c56a">
+      <database-info product="MySQL" version="5.7.14" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>ruby</user-name>
+      <introspection-schemas>*:checklist_app</introspection-schemas>
+    </data-source>
+    <data-source name="Rails CheckListApp: production" uuid="aabe0ded-aebc-4f35-879e-90439deb0364">
+      <database-info product="MySQL" version="5.7.14" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>ruby</user-name>
+      <introspection-schemas>*:checklist_app</introspection-schemas>
+    </data-source>
+    <data-source name="Rails CheckListApp: default" uuid="de4f0ef7-c3b6-4c03-876f-ad5f57b11827">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>ruby</user-name>
+    </data-source>
+  </component>
+</project>
